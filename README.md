@@ -1,3 +1,5 @@
+# this is a archive of the mollomm1 original repository.
+
 # DesktopOnCodespaces (Beta)
 
 [**See Screenshots**](https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces/src/branch/main/screenshots.md)
@@ -35,7 +37,7 @@ it's very simple to install, there is a pseudo-graphical installer.
 first start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
-curl -O https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces/raw/branch/main/install.sh
+curl -O https://github.com/quantumnova87/DesktopOnCodespaces/raw/branch/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
