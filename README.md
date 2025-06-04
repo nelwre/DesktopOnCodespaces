@@ -1,7 +1,6 @@
 # this is a archive of the mollomm1 original repository.
 # The original repository no longer exists due to a 502 host/bad gateway error, so I'm making the repository available to anyone who wants it.
 
-so, here is the original repository readme.md
 
 # DesktopOnCodespaces (Beta)
 
@@ -38,7 +37,7 @@ it's very simple to install, there is a pseudo-graphical installer.
 first start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
-curl -O https://raw.githubusercontent.com/quantumnova87/DesktopOnCodespaces/refs/heads/main/install.sh
+curl -O https://raw.githubusercontent.com/leonelxzy/DesktopOnCodespaces/refs/heads/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
